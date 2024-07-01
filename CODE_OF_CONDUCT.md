@@ -2,11 +2,11 @@
 
 ## 1. Purpose
 
-A primary goal of "The Tipping Hat" and "QSAND Mod" communities is to be inclusive to the largest number of contributors with the most varied and diverse backgrounds possible. We are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of "The Tipping Hat" community is to be inclusive to the largest number of contributors with the most varied and diverse backgrounds possible. We are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all community members and the consequences of unacceptable behavior in the community.
 
-We invite all those who participate in "The Tipping Hat" or "QSAND Mod" communities to help us create safe and positive experiences for everyone.
+We invite all those who participate in "The Tipping Hat" community to help us create safe and positive experiences for everyone.
 
 ## 2. Open Source Citizenship
 
